@@ -32,7 +32,7 @@
     "parPrivateDnsZonesNamesToAuditInCorp": {
       "value": []
     },
-    "parDisablebsv9DefaultPolicies": {
+    "parDisableAlz9DefaultPolicies": {
       "value": false
     },
     "parVmBackupExclusionTagName": {
