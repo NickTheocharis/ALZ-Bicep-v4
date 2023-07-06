@@ -18,7 +18,7 @@
       "value": false
     },
     "parLogAnalyticsWorkspaceResourceId": {
-      "value": "/subscriptions/35f93ac7-6de8-4773-9b81-1382e9fab44f/resourcegroups/rg-bsv8-logging/providers/microsoft.operationalinsights/workspaces/alz-log-analytics"
+      "value": "/subscriptions/35f93ac7-6de8-4773-9b81-1382e9fab44f/resourcegroups/rg-bsv8-logging/providers/microsoft.operationalinsights/workspaces/bsv9-log-analytics"
     },
     "parLandingZoneMgChildren": {
       "value": []

@@ -12,19 +12,19 @@
       "value": "westeurope"
     },
     "parLogAnalyticsWorkspaceResourceId": {
-      "value": "/subscriptions/35f93ac7-6de8-4773-9b81-1382e9fab44f/resourcegroups/rg-bsv8-logging/providers/microsoft.operationalinsights/workspaces/alz-log-analytics"
+      "value": "/subscriptions/35f93ac7-6de8-4773-9b81-1382e9fab44f/resourcegroups/rg-bsv8-logging/providers/microsoft.operationalinsights/workspaces/bsv9-log-analytics"
     },
     "parLogAnalyticsWorkspaceLogRetentionInDays": {
       "value": "365"
     },
     "parAutomationAccountName": {
-      "value": "alz-automation-account"
+      "value": "bsv9-automation-account"
     },
     "parMsDefenderForCloudEmailSecurityContact": {
       "value": "ntheoc@bluestream.gr"
     },
     "parDdosProtectionPlanId": {
-      "value": "/subscriptions/bc8e0487-7811-4912-aacc-49815046c4fe/resourceGroups/rg-bsv8-connectivity/providers/Microsoft.Network/ddosProtectionPlans/alz-ddos-plan"
+      "value": "/subscriptions/bc8e0487-7811-4912-aacc-49815046c4fe/resourceGroups/rg-bsv8-connectivity/providers/Microsoft.Network/ddosProtectionPlans/bsv9-ddos-plan"
     },
     "parPrivateDnsResourceGroupId": {
       "value": "/subscriptions/bc8e0487-7811-4912-aacc-49815046c4fe/resourceGroups/rg-bsv8-connectivity"
@@ -32,7 +32,7 @@
     "parPrivateDnsZonesNamesToAuditInCorp": {
       "value": []
     },
-    "parDisableAlzDefaultPolicies": {
+    "parDisablebsv9DefaultPolicies": {
       "value": false
     },
     "parVmBackupExclusionTagName": {

@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "parLogAnalyticsWorkspaceName": {
-      "value": "alz-log-analytics"
+      "value": "bsv9-log-analytics"
     },
     "parLogAnalyticsWorkspaceLocation": {
       "value": "westeurope"
@@ -32,7 +32,7 @@
       "value": true
     },
     "parAutomationAccountName": {
-      "value": "alz-automation-account"
+      "value": "bsv9-automation-account"
     },
     "parAutomationAccountLocation": {
       "value": "westeurope"
