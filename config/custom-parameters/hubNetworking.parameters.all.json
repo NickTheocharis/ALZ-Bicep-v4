@@ -67,7 +67,7 @@
       "value": "nsg-AzureBastionSubnet"
     },
     "parDdosEnabled": {
-      "value": true
+      "value": false
     },
     "parDdosPlanName": {
       "value": "bsv9-ddos-plan"
@@ -82,7 +82,7 @@
       "value": "bsv9-azfwpolicy-westeurope"
     },
     "parAzFirewallTier": {
-      "value": "Standard"
+      "value": "Basic"
     },
     "parAzFirewallAvailabilityZones": {
       "value": []
@@ -199,23 +199,7 @@
       }
     },
     "parExpressRouteGatewayConfig": {
-      "value": {
-        "name": "bsv9-ExpressRoute-Gateway",
-        "gatewayType": "ExpressRoute",
-        "sku": "Standard",
-        "vpnType": "RouteBased",
-        "generation": "None",
-        "enableBgp": false,
-        "activeActive": false,
-        "enableBgpRouteTranslationForNat": false,
-        "enableDnsForwarding": false,
-        "bgpPeeringAddress": "",
-        "bgpsettings": {
-          "asn": "65515",
-          "bgpPeeringAddress": "",
-          "peerWeight": "5"
-        }
-      }
+      "value": {}
     },
     "parTags": {
       "value": {
