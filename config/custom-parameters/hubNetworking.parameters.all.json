@@ -69,9 +69,6 @@
     "parDdosEnabled": {
       "value": false
     },
-    "parDdosPlanName": {
-      "value": "bsv9-ddos-plan"
-    },
     "parAzFirewallEnabled": {
       "value": true
     },
