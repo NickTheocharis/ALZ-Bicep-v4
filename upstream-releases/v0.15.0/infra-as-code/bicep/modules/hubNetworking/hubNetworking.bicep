@@ -336,10 +336,6 @@ resource resHubVnet 'Microsoft.Network/virtualNetworks@2021-08-01' = {
       dnsServers: parDnsServerIps
     }
     subnets: varSubnetProperties
-    enableDdosProtection: parDdosEnabled
-    ddosProtectionPlan: (parDdosEnabled) ? {
-      id: resDdosProtectionPlan.id
-    } : null
   }
 }
 
